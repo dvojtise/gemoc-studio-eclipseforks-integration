@@ -1,7 +1,7 @@
 [submodule "gemoc-studio"]
 	path = gemoc-studio
 	url = https://github.com/gemoc/gemoc-studio-eclipsefork.git
-	branch = master
+	branch = dslfile.bak
 [submodule "gemoc-studio-modeldebugging"]
 	path = gemoc-studio-modeldebugging
 	url = https://github.com/gemoc/gemoc-studio-modeldebugging-eclipsefork.git
